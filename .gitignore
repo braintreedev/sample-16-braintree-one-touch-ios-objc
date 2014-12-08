@@ -4,3 +4,6 @@ client/Pods
 client/*.xcworkspace
 client/*.xcodeproj/xcuserdata
 client/*.xcodeproj/*.xcworkspace
+fake-wallet-app-ios/Podfile.lock
+fake-wallet-app-ios/Pods
+fake-wallet-app-ios/fake-wallet.xcworkspace
