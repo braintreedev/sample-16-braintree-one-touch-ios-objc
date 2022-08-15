@@ -1,3 +1,5 @@
+<h2>This repo is on a path to being archived, checkout our other resources in github.com/paypal</h2>
+
 # Braintree One Touch on iOS (Objective C)
 
 This is an example of One Touch in the Braintree V.zero Client SDK for processing both PayPal in iOS applications. It comes with a minimal backened example written in Node.js that shows how to generate client tokens and how to process the payment method nonce.
